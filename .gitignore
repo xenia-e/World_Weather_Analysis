@@ -1,3 +1,6 @@
+# Adding config.py file.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Adding additional files
+
+API_practice.ipynb
+random_numbers.ipynb
